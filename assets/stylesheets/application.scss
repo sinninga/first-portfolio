@@ -22,6 +22,43 @@ body {
   font-size: 5em;
 }
 
+.skills {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2081C3;
+  height: 100vh;
+  color: white;
+  font-size: 3em;
+}
+
+.skill-card {
+  background-color: whitesmoke;
+  color: black;
+  font-size: 2rem;
+  height: 30rem;
+  width: 15rem;
+  margin: 5rem;
+}
+
+.list {
+  font-size: 1.5rem;
+}
+
+.skill-title {
+  justify-content: center;
+}
+
+.projects {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3FB4ED;
+  height: 100vh;
+  color: white;
+  font-size: 3em;
+}
+
 // #root {
 //   height: 100vh;
 //   display: flex;
