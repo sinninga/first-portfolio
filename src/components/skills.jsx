@@ -6,7 +6,8 @@ class Skills extends Component {
       <div className="skills">
         <div className="skill-card">
           <strong className='skill-title'>Developer</strong>
-          <ul>
+          <br/>
+          <ul className='full-list'>
             <li className='list'>javascript</li>
             <li className='list'>css</li>
             <li className='list'>html5</li>
@@ -16,7 +17,8 @@ class Skills extends Component {
         </div>
         <div className="skill-card">
           <strong className='skill-title'>Designer</strong>
-          <ul>
+          <br/>
+          <ul className='full-list'>
             <li className='list'>ui/ux design</li>
             <li className='list'>wireframing</li>
             <li className='list'>prototyping</li>
@@ -25,7 +27,8 @@ class Skills extends Component {
         </div>
         <div className="skill-card">
           <strong className='skill-title'>Toolkit</strong>
-          <ul>
+          <br/>
+          <ul className='full-list'>
             <li className='list'>sublime text</li>
             <li className='list'>chrome developer tools</li>
             <li className='list'>github</li>

@@ -16,7 +16,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #3FB4ED;
+  background-image: url("/assets/kuelap.jpg");
+  background-size: cover;
   height: 100vh;
   color: white;
   font-size: 5em;
@@ -52,6 +53,7 @@ body {
 
 .skill-title {
   color: orange;
+  text-decoration: underline;
   text-align: center;
 }
 
