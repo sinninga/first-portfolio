@@ -31,11 +31,18 @@ body {
   justify-content: center;
   margin-bottom: 20vh;
   font-family: serif;
+  text-shadow: 2px 2px 2px grey;
 }
 
 .adam {
-  font-size: 70px;
+  font-size: 50px;
+  margin-bottom: 0px;
   font-family: serif;
+  text-shadow: 2px 2px 2px grey;
+}
+
+.banner-button {
+  margin-top: 1vh;
 }
 
 .skills {
