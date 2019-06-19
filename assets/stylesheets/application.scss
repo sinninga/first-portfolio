@@ -6,7 +6,7 @@ body {
   background-color: #2081C3;
   border-radius: 0;
   margin: 0;
-  font-family: serif;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .navbar-brand {
@@ -30,19 +30,20 @@ body {
   align-items: center;
   justify-content: center;
   margin-bottom: 20vh;
-  font-family: serif;
+  font-family: 'Patrick Hand', cursive;
   text-shadow: 1px 1px 1px grey;
 }
 
 .adam {
   font-size: 60px;
   margin-bottom: 0px;
-  font-family: serif;
+  font-family: 'Permanent Marker', cursive;
   text-shadow: 2px 2px 2px grey;
 }
 
 .banner-button {
   margin-top: 1vh;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .skills {
@@ -53,7 +54,7 @@ body {
   height: 100vh;
   color: white;
   font-size: 3em;
-  font-family: serif;
+  font-family: 'Patrick Hand', cursive;
 }
 
 .skill-card {
@@ -65,8 +66,9 @@ body {
   height: 30rem;
   width: 15rem;
   margin: 5rem;
-  border-radius: 2px;
-  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  margin-bottom: 20vh;
+  border-radius: 4px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
   max-height: 100vh;
 }
 
@@ -75,19 +77,24 @@ body {
 }
 
 .skill-title {
-  color: orange;
+  color: #D81E5B;
+  font-family: 'Permanent Marker', cursive;
+  margin-top: 5px;
   text-decoration: underline;
   text-align: center;
 }
 
 .projects {
   display: flex;
-  align-items: center;
+  // align-items: center;
   justify-content: center;
   background-color: #3FB4ED;
   height: 100vh;
   color: white;
   font-size: 3em;
+  text-decoration: underline;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 2px 2px 2px grey;
 }
 
 // #root {
