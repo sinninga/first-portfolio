@@ -4,7 +4,11 @@ class Banner extends Component {
   render() {
     return (
       <div className="banner">
-        Adam Sinning
+        <div className="banner-content">
+          <p className="adam">Adam Sinning</p>
+          <h4>Developer, Designer, Doer</h4>
+          <button className="btn btn-primary banner-button">Contact</button>
+        </div>
       </div>
     )
   }
