@@ -123,9 +123,66 @@ body {
   font-size: 3em;
   text-decoration: underline;
   font-family: 'Permanent Marker', cursive;
-  text-shadow: 1px 1px 1px black;
 }
 
+.projects-title {
+  background-color: whitesmoke;
+  color: #3FB4ED;
+  text-align: center;
+  font-size: 3em;
+  text-decoration: underline;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 1px 1px 1px black;
+  padding-top: 40px;
+}
+
+.project-title {
+  color: #D81E5B;
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.project-card {
+  background-color: whitesmoke;
+  align-items: center;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #D81E5B;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  font-size: 2rem;
+  height: 15rem;
+  width: 15rem;
+  margin: 5rem;
+  margin-bottom: 20vh;
+  border-radius: 4px;
+  // box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
+  max-height: 100vh;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: whitesmoke;
+  height: 80vh;
+  color: white;
+  font-size: 3em;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.row-one-cards {
+  display: flex;
+  flex-direction: row;
+}
+.row-two-cards {
+  display: flex;
+  flex-direction: row;
+
+}
 
 .about {
   display: flex;
@@ -140,6 +197,12 @@ body {
   text-shadow: 2px 2px 2px grey;
 }
 
+.image {
+  text-align: center;
+  height: 50%;
+  width: 80%;
+}
+
 .footer {
   height: 7vh;
   background-color: #2081C3;
@@ -147,6 +210,8 @@ body {
   font-family: 'Permanent Marker', cursive;
   text-align: center;
 }
+
+
 // #root {
 //   height: 100vh;
 //   display: flex;
