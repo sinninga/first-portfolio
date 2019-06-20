@@ -127,12 +127,12 @@ body {
 
 .projects-title {
   background-color: whitesmoke;
-  color: #3FB4ED;
+  color: #2081C3;
   text-align: center;
   font-size: 3em;
   text-decoration: underline;
   font-family: 'Permanent Marker', cursive;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: 1px 1px 1px grey;
   padding-top: 40px;
 }
 
@@ -154,12 +154,18 @@ body {
   color: black;
   font-size: 2rem;
   height: 15rem;
-  width: 15rem;
+  width: 17rem;
   margin: 5rem;
   margin-bottom: 20vh;
   border-radius: 4px;
   // box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
   max-height: 100vh;
+}
+
+.project-card:hover {
+  background-color: #2081C3;
+  color: whitesmoke;
+  border-color: red;
 }
 
 .projects {
