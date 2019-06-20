@@ -18,6 +18,7 @@ class Skills extends Component {
               <li className='list'>Ruby</li>
               <li className='list'>Bootstrap</li>
               <li className='list'>Heroku</li>
+              <li className='list'>Postgres</li>
             </ul>
           </div>
           <div className="skill-card">
