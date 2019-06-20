@@ -18,7 +18,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(0deg,#2081C3,rgba(255,0,150,0.3)),url("/assets/sinai.jpg");
+  background: linear-gradient(0deg,#2081C3,rgba(255,0,150,0.4)),url("/assets/sinai.jpg");
   background-size: cover;
   height: 100vh;
   color: white;
@@ -53,12 +53,24 @@ body {
   border-width: 2px;
 }
 
+.skills-title {
+  background-color: #2081C3;
+  color: whitesmoke;
+  text-align: center;
+  color: white;
+  font-size: 3em;
+  text-decoration: underline;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 2px 2px 2px grey;
+  padding-top: 40px;
+}
+
 .skills {
   display: flex;
-  align-items: center;
+  // align-items: center;
   justify-content: center;
   background-color: #2081C3;
-  height: 100vh;
+  height: 80vh;
   color: white;
   font-size: 3em;
   font-family: 'Patrick Hand', cursive;
