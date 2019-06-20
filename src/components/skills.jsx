@@ -6,7 +6,6 @@ class Skills extends Component {
       <div className="skills">
         <div className="skill-card">
           <strong className='skill-title'>Developer</strong>
-          <br/>
           <ul className='full-list'>
             <li className='list'>Javascript</li>
             <li className='list'>CSS</li>
