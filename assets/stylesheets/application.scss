@@ -117,8 +117,22 @@ body {
   display: flex;
   // align-items: center;
   justify-content: center;
+  background-color: whitesmoke;
+  height: 93vh;
+  color: #3FB4ED;
+  font-size: 3em;
+  text-decoration: underline;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 1px 1px 1px black;
+}
+
+
+.about {
+  display: flex;
+  // align-items: center;
+  justify-content: center;
   background-color: #3FB4ED;
-  height: 100vh;
+  height: 93vh;
   color: white;
   font-size: 3em;
   text-decoration: underline;
@@ -126,6 +140,13 @@ body {
   text-shadow: 2px 2px 2px grey;
 }
 
+.footer {
+  height: 7vh;
+  background-color: #2081C3;
+  color: whitesmoke;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
 // #root {
 //   height: 100vh;
 //   display: flex;
