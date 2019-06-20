@@ -7,6 +7,11 @@ body {
   border-radius: 0;
   margin: 0;
   font-family: 'Permanent Marker', cursive;
+  list-style-type: none;
+  position: sticky;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
 }
 
 .navbar-brand {
@@ -25,8 +30,9 @@ body {
 }
 
 .tagline {
+  margin: 20px;
   color: #D81E5B;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
 
 }
