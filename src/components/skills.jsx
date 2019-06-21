@@ -9,16 +9,16 @@ class Skills extends Component {
           <div className="skill-card">
             <strong className='skill-title'>Developer</strong>
             <br/>
-            <ul className='full-list'>
-              <li className='list'>Javascript</li>
-              <li className='list'>CSS</li>
-              <li className='list'>HTML5</li>
-              <li className='list'>React</li>
-              <li className='list'>Redux</li>
-              <li className='list'>Ruby</li>
-              <li className='list'>Bootstrap</li>
-              <li className='list'>Heroku</li>
-              <li className='list'>Postgres</li>
+            <ul className='full-list-one'>
+              <li className='list'><img className='icon' src="/assets/html.png"/>  HTML5</li>
+              <li className='list'><img className='icon' src="/assets/css.png"/>  CSS</li>
+              <li className='list'><img className='icon' src="/assets/js.png"/>  Javascript</li>
+              <li className='list'><img className='icon' src="/assets/react.png"/>  React</li>
+              <li className='list'><img className='icon' src="/assets/redux.png"/>  Redux</li>
+              <li className='list'><img className='icon' src="/assets/ruby.png"/>  Ruby</li>
+              <li className='list'><img className='icon' src="/assets/bootstrap.png"/>  Bootstrap</li>
+              <li className='list'><img className='icon' src="/assets/heroku.png"/>  Heroku</li>
+              <li className='list'><img className='icon' src="/assets/postgres.png"/>  Postgres</li>
             </ul>
           </div>
           <div className="skill-card">
@@ -38,6 +38,8 @@ class Skills extends Component {
               <li className='list'>Sublime Text</li>
               <li className='list'>Chrome Dev Tools</li>
               <li className='list'>Github</li>
+              <li className='list'>React Dev Tools</li>
+              <li className='list'>Redux Dev Tools</li>
             </ul>
           </div>
         </div>

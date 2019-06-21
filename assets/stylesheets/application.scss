@@ -163,8 +163,8 @@ body {
 }
 
 .project-card:hover {
-  background-color: #2081C3;
   color: whitesmoke;
+  background-color: #2081C3;
   border-color: red;
 }
 
@@ -216,8 +216,13 @@ body {
   font-family: 'Permanent Marker', cursive;
   text-align: center;
 }
-
-
+.full-list-one {
+  list-style: none;
+}
+.icon {
+  height: 14px;
+  width: 14px;
+}
 // #root {
 //   height: 100vh;
 //   display: flex;
