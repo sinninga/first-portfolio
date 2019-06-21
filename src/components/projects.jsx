@@ -4,6 +4,7 @@ class Projects extends Component {
   render() {
     return (
       <div className="projects-container">
+      <a name="projects-link"/>
       <div className="projects-title">Projects</div>
         <div className="projects">
           <div className="row-one-cards">

@@ -4,6 +4,7 @@ class Skills extends Component {
   render() {
     return (
       <div className="skills-container">
+      <a name="skill-link"/>
       <div className="skills-title">Skills</div>
         <div className="skills">
           <div className="skill-card">
