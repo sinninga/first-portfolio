@@ -143,6 +143,10 @@ body {
   text-align: center;
 }
 
+.project-title:hover {
+  color: whitesmoke;
+}
+
 .project-card {
   background-color: whitesmoke;
   align-items: center;
@@ -165,7 +169,8 @@ body {
 .project-card:hover {
   color: whitesmoke;
   background-color: #2081C3;
-  border-color: red;
+  transition-property: background-color;
+  transition-duration: 0.6s;
 }
 
 .projects {
