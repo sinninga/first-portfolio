@@ -24,10 +24,10 @@ class Projects extends Component {
             </a>
           </div>
           <div className="row-two-cards">
-            <a href="#" className="project-card">
+            <a href="https://mister-cocktail-adam.herokuapp.com/" className="project-card">
               <strong className='project-title'>Deployment</strong>
               <br/>
-              <img className="image" src="/assets/kuelap.jpg" alt=""/>
+              <img className="image" src="/assets/cocktail.png" alt=""/>
             </a>
             <a href="https://sinninga.github.io/wagon-cities/" className="project-card">
               <strong className='project-title'>Redux Demo</strong>
