@@ -7,7 +7,9 @@ class Banner extends Component {
         <div className="banner-content">
           <p className="adam">Adam Sinning</p>
           <h4 className="tagline">Full-Stack Developer</h4>
-          <button className="btn btn-primary banner-button">See My Work</button>
+          <a href="#projects-link">
+            <button className="btn btn-primary banner-button">See My Work</button>
+          </a>
         </div>
       </div>
     )
