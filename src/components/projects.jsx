@@ -11,17 +11,17 @@ class Projects extends Component {
             <a href="#" className="project-card">
               <strong className='project-title'>CRUD Demo</strong>
               <br/>
-              <img className="image" src="/assets/kuelap.jpg" alt=""/>
+              <img className="image" src="/assets/reduxbb.png" alt=""/>
             </a>
             <a href="#" className="project-card">
               <strong className='project-title'>Sorting Demo</strong>
               <br/>
-              <img className="image" src="/assets/kuelap.jpg" alt=""/>
+              <img className="image" src="/assets/equip.png" alt=""/>
             </a>
             <a href="#" className="project-card">
               <strong className='project-title'>API Calls</strong>
               <br/>
-              <img className="image" src="/assets/kuelap.jpg" alt=""/>
+              <img className="image" src="/assets/giphy.png" alt=""/>
             </a>
           </div>
           <div className="row-two-cards">
@@ -38,7 +38,7 @@ class Projects extends Component {
             <a href="https://www.w3schools.com/cssref/sel_hover.asp" className="project-card">
               <strong className='project-title'>Design</strong>
               <br/>
-              <img className="image" src="/assets/kuelap.jpg" alt=""/>
+              <img className="image" src="/assets/graph.png" alt=""/>
             </a>
           </div>
         </div>
