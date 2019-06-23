@@ -238,13 +238,21 @@ body {
 
 .about-left {
   background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
   margin-bottom: 15px;
   min-width: 150px;
   width: 30vw;
-  height: 60vh;
+  height: auto;
+  min-height: 60vh;
   text-align: center;
   border-radius: 4px;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.about-left-content {
+  display: flex;
+  flex-direction: column;
 }
 
 .about-center {
@@ -275,6 +283,7 @@ body {
   color: #3FB4ED;
   font-family: 'Permanent Marker', cursive;
   margin: 5px;
+  margin-bottom: 20px;
   font-size: 2rem;
 }
 
@@ -298,6 +307,13 @@ body {
 .icon {
   height: 14px;
   width: 14px;
+}
+
+.about-icon {
+  max-height: 50px;
+  max-width: 50px;
+  margin: 10px;
+  border-radius: 50px;
 }
 // #root {
 //   height: 100vh;
