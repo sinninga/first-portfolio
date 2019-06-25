@@ -12,30 +12,38 @@ class About extends Component {
             <div className="about-content-title">Education</div>
             <div className="about-left-content">
               <div className="edu-item">
-                <img src="/assets/photos/cuboulder.png" alt="" className="about-icon"/>
+                <div className="edu-icon-card">
+                  <img src="/assets/photos/cuboulder.png" alt="" className="about-icon"/>
+                </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>University of Colorado</strong></p>
                   <p className="edu-location">Boulder, Colorado</p>
                 </div>
               </div>
               <div className="edu-item">
-                <img src="/assets/photos/wagon-red.png" alt="" className="about-icon"/>
+                <div className="edu-icon-card">
+                  <img src="/assets/photos/wagon-red.png" alt="" className="about-icon"/>
+                </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Le Wagon</strong></p>
                   <p className="edu-location">Rio de Janeiro, Brazil</p>
                 </div>
               </div>
               <div className="edu-item">
-                <img src="/assets/photos/cano.png" alt="" className="about-icon"/>
+                <div className="edu-icon-card">
+                  <img src="/assets/photos/cano.png" alt="" className="about-icon"/>
+                </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Cano Spanish School</strong></p>
                   <p className="edu-location">Antigua, Guatemala</p>
                 </div>
               </div>
               <div className="edu-item">
-                <img src="/assets/photos/sucre.png" alt="" className="about-icon"/>
+                <div className="edu-icon-card">
+                  <img src="/assets/photos/sucre.png" alt="" className="about-icon"/>
+                </div>
                 <div className="edu-item-content">
-                  <p className="edu-title"><strong>Bolivian Spanish School</strong></p>
+                  <p className="edu-title"><strong>Sucre Spanish School</strong></p>
                   <p className="edu-location">Sucre, Bolivia</p>
                 </div>
               </div>
