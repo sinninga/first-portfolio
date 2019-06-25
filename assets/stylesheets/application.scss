@@ -262,7 +262,8 @@ body {
   margin-bottom: 15px;
   min-width: 150px;
   width: 30vw;
-  height: 65vh;
+  height: auto;
+  min-height: 65vh;
   text-align: center;
   margin-left: 20px;
   margin-right: 20px;
@@ -287,6 +288,13 @@ body {
   font-family: 'Permanent Marker', cursive;
   margin: 5px;
   margin-bottom: 40px;
+  font-size: 2rem;
+}
+
+.about-content-title-music {
+  color: #3FB4ED;
+  font-family: 'Permanent Marker', cursive;
+  margin: 5px;
   font-size: 2rem;
 }
 
@@ -341,6 +349,10 @@ body {
 .edu-location {
   font-family: 'Patrick Hand', cursive;
   color: grey;
+}
+
+.audio-container {
+  overflow: hidden;
 }
 
 .photos-container {

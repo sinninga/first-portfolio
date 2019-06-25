@@ -42,7 +42,27 @@ class About extends Component {
             </div>
           </div>
           <div className="about-center">
-            <div className="about-content-title">Music</div>
+            <div className="about-content-title-music">Music</div>
+            <div className="audio-container">
+              <audio controls="controls">
+                <source src="/assets/songs/agp1.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls">
+                <source src="/assets/songs/agp2.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls">
+                <source src="/assets/songs/agp4.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls">
+                <source src="/assets/songs/agp5.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls">
+                <source src="/assets/songs/agp6.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls">
+                <source src="/assets/songs/agp7.mp3" type="audio/mpeg" />
+              </audio>
+            </div>
           </div>
           <div className="about-right">
             <div className="about-content-title">Photography</div>
