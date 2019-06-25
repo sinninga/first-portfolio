@@ -46,6 +46,20 @@ class About extends Component {
           </div>
           <div className="about-right">
             <div className="about-content-title">Photography</div>
+            <div className="photos-container">
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <img className="photo" src="/assets/wall.jpg" alt=""/>
+            </div>
           </div>
         </div>
       </div>
