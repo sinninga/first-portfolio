@@ -9,7 +9,7 @@ class Navbar extends Component {
         <a className="navbar-brand" href="#about-link">About</a>
         <div className="nav-home">
           <a className="navbar-brand" href="#">
-            <img className="nav-img" src="/assets/home2.jpg" alt=""/>
+            <img className="nav-img" src="/assets/photos/home2.jpg" alt=""/>
           </a>
         </div>
       </nav>

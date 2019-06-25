@@ -12,28 +12,28 @@ class About extends Component {
             <div className="about-content-title">Education</div>
             <div className="about-left-content">
               <div className="edu-item">
-                <img src="/assets/cuboulder.png" alt="" className="about-icon"/>
+                <img src="/assets/photos/cuboulder.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>University of Colorado</strong></p>
                   <p className="edu-location">Boulder, Colorado</p>
                 </div>
               </div>
               <div className="edu-item">
-                <img src="/assets/wagon-red.png" alt="" className="about-icon"/>
+                <img src="/assets/photos/wagon-red.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Le Wagon</strong></p>
                   <p className="edu-location">Rio de Janeiro, Brazil</p>
                 </div>
               </div>
               <div className="edu-item">
-                <img src="/assets/cano.png" alt="" className="about-icon"/>
+                <img src="/assets/photos/cano.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Cano Spanish School</strong></p>
                   <p className="edu-location">Antigua, Guatemala</p>
                 </div>
               </div>
               <div className="edu-item">
-                <img src="/assets/sucre.png" alt="" className="about-icon"/>
+                <img src="/assets/photos/sucre.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Bolivian Spanish School</strong></p>
                   <p className="edu-location">Sucre, Bolivia</p>
@@ -69,40 +69,40 @@ class About extends Component {
             <div className="about-content-title">Photography</div>
             <div className="photos-container">
               <div className="photo-card">
-                <img className="photo" src="/assets/wall.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/antigua.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/antigua.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/canyon.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/canyon.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/domes.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/domes.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/karnak.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/karnak.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/lake.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/lake.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/lizard.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/mosque.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/mosque.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/shrine.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/shrine.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/sign.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/sign.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/sunset.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/sunset.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/temple.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/temple.jpg" alt=""/>
               </div>
               <div className="photo-card">
-                <img className="photo" src="/assets/venice.jpg" alt=""/>
+                <img className="photo" src="/assets/photos/photography/wall.jpg" alt=""/>
               </div>
             </div>
           </div>

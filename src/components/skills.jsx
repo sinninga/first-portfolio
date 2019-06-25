@@ -11,15 +11,15 @@ class Skills extends Component {
             <strong className='skill-title'>Developer</strong>
             <br/>
             <ul className='full-list-one'>
-              <li className='list'><img className='icon' src="/assets/html.png"/>  HTML5</li>
-              <li className='list'><img className='icon' src="/assets/css.png"/>  CSS</li>
-              <li className='list'><img className='icon' src="/assets/js.png"/>  Javascript</li>
-              <li className='list'><img className='icon' src="/assets/react.png"/>  React</li>
-              <li className='list'><img className='icon' src="/assets/redux.png"/>  Redux</li>
-              <li className='list'><img className='icon' src="/assets/ruby.png"/>  Ruby</li>
-              <li className='list'><img className='icon' src="/assets/bootstrap.png"/>  Bootstrap</li>
-              <li className='list'><img className='icon' src="/assets/heroku.png"/>  Heroku</li>
-              <li className='list'><img className='icon' src="/assets/postgres.png"/>  Postgres</li>
+              <li className='list'><img className='icon' src="/assets/photos/html.png"/>  HTML5</li>
+              <li className='list'><img className='icon' src="/assets/photos/css.png"/>  CSS</li>
+              <li className='list'><img className='icon' src="/assets/photos/js.png"/>  Javascript</li>
+              <li className='list'><img className='icon' src="/assets/photos/react.png"/>  React</li>
+              <li className='list'><img className='icon' src="/assets/photos/redux.png"/>  Redux</li>
+              <li className='list'><img className='icon' src="/assets/photos/ruby.png"/>  Ruby</li>
+              <li className='list'><img className='icon' src="/assets/photos/bootstrap.png"/>  Bootstrap</li>
+              <li className='list'><img className='icon' src="/assets/photos/heroku.png"/>  Heroku</li>
+              <li className='list'><img className='icon' src="/assets/photos/postgres.png"/>  Postgres</li>
             </ul>
           </div>
           <div className="skill-card">
