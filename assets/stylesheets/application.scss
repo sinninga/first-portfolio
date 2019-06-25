@@ -11,7 +11,6 @@ body {
   font-family: 'Permanent Marker', cursive;
   list-style-type: none;
   position: sticky;
-  overflow: hidden;
   top: 0;
   width: 100%;
   z-index: 2;
@@ -19,6 +18,16 @@ body {
 
 .navbar-brand {
   color: white;
+}
+
+.nav-home {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-img {
+  height: 20px;
+  width: 20px;
 }
 
 .banner {
@@ -384,9 +393,9 @@ body {
 }
 .footer {
   display: flex;
-  flex-direction: row;
-  justify-content: right;
-  height: 7vh;
+  justify-content: flex-end;
+  min-height: 7vh;
+  height: auto;
   background-color: #2081C3;
   color: whitesmoke;
   font-family: 'Permanent Marker', cursive;
@@ -398,13 +407,14 @@ body {
   background-color: white;
   border-radius: 50px;
   margin-top: 2vh;
-  margin-left: 2vh;
 }
 
 .footer-content {
   text-align: right;
   margin-left: 7px;
+  margin-right: 17px;
   margin-top: 1.5vh;
+  margin-bottom: 7px;
 }
 // #root {
 //   height: 100vh;
