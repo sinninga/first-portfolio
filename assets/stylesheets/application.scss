@@ -324,7 +324,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 3vh;
+  margin-bottom: 2vh;
 }
 
 .edu-item-content {
@@ -356,6 +356,19 @@ body {
   margin: 5px;
   border-radius: 2px;
   margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.photo-card {
+  background-color: #2081C3;
+  height: 80px;
+  width: 80px;
+  margin: 5px;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 // #root {
 //   height: 100vh;

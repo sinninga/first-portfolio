@@ -14,28 +14,28 @@ class About extends Component {
               <div className="edu-item">
                 <img src="/assets/cuboulder.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
-                  <p className="edu-title">University of Colorado</p>
+                  <p className="edu-title"><strong>University of Colorado</strong></p>
                   <p className="edu-location">Boulder, Colorado</p>
                 </div>
               </div>
               <div className="edu-item">
                 <img src="/assets/wagon-red.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
-                  <p className="edu-title">Le Wagon</p>
+                  <p className="edu-title"><strong>Le Wagon</strong></p>
                   <p className="edu-location">Rio de Janeiro, Brazil</p>
                 </div>
               </div>
               <div className="edu-item">
                 <img src="/assets/cano.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
-                  <p className="edu-title">Cano Spanish School</p>
+                  <p className="edu-title"><strong>Cano Spanish School</strong></p>
                   <p className="edu-location">Antigua, Guatemala</p>
                 </div>
               </div>
               <div className="edu-item">
                 <img src="/assets/sucre.png" alt="" className="about-icon"/>
                 <div className="edu-item-content">
-                  <p className="edu-title">Bolivian Spanish School</p>
+                  <p className="edu-title"><strong>Bolivian Spanish School</strong></p>
                   <p className="edu-location">Sucre, Bolivia</p>
                 </div>
               </div>
@@ -47,18 +47,42 @@ class About extends Component {
           <div className="about-right">
             <div className="about-content-title">Photography</div>
             <div className="photos-container">
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
-              <img className="photo" src="/assets/wall.jpg" alt=""/>
+              <div className="photo-card">
+                <img className="photo" src="/assets/wall.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/antigua.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/canyon.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/domes.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/karnak.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/lake.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/mosque.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/shrine.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/sign.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/sunset.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/temple.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/venice.jpg" alt=""/>
+              </div>
             </div>
           </div>
         </div>
