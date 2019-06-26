@@ -112,6 +112,18 @@ class About extends Component {
               <div className="photo-card">
                 <img className="photo" src="/assets/photos/photography/wall.jpg" alt=""/>
               </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/photos/photography/fruit.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/photos/photography/gold.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/photos/photography/hktemp.jpg" alt=""/>
+              </div>
+              <div className="photo-card">
+                <img className="photo" src="/assets/photos/photography/lamps.jpg" alt=""/>
+              </div>
             </div>
           </div>
         </div>

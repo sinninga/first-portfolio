@@ -251,7 +251,7 @@ body {
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
-  min-width: 150px;
+  min-width: 190px;
   width: 30vw;
   height: auto;
   min-height: 60vh;
@@ -271,7 +271,7 @@ body {
 .about-center {
   background-color: whitesmoke;
   margin-bottom: 15px;
-  min-width: 150px;
+  min-width: 190px;
   width: 30vw;
   height: auto;
   min-height: 65vh;
@@ -285,7 +285,7 @@ body {
 
 .about-right {
   background-color: whitesmoke;
-  min-width: 150px;
+  min-width: 190px;
   margin-bottom: 15px;
   width: 30vw;
   min-height: 65vh;
@@ -313,6 +313,7 @@ body {
 .about-content-title-music-desc {
   font-family: 'Patrick Hand', cursive;
   color: #D81E5B;
+  margin-bottom: 4vh;
 }
 
 .image {
@@ -342,7 +343,7 @@ body {
   flex-direction: row;
   align-items: left;
   margin-bottom: 5vh;
-  margin-left: 5px;
+  margin-left: 15px;
 }
 
 .edu-item-content {
@@ -382,7 +383,9 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-height: 65vh;
   height: auto;
+  overflow: auto;
 }
 
 .photo {
