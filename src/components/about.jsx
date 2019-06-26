@@ -1,6 +1,18 @@
 import React, { Component } from 'react';
 
 class About extends Component {
+  constructor(props) {
+    super(props);
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  handleClick(event) {
+    console.log('Click happened');
+    const card = event.currentTarget;
+    console.log(card);
+    card.classList.toggle("red");
+  }
+
   render() {
     return (
       <div className="about">
@@ -76,52 +88,52 @@ class About extends Component {
           <div className="about-right">
             <div className="about-content-title">Photography</div>
             <div className="photos-container">
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/antigua.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/canyon.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/domes.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/karnak.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/lake.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/lizard.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/mosque.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/shrine.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/sign.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/sunset.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/temple.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/wall.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/fruit.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/gold.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/hktemp.jpg" alt=""/>
               </div>
-              <div className="photo-card">
+              <div className="photo-card" onClick={this.handleClick}>
                 <img className="photo" src="/assets/photos/photography/lamps.jpg" alt=""/>
               </div>
             </div>
