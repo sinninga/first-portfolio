@@ -10,7 +10,7 @@ class About extends Component {
     console.log('Click happened');
     const card = event.currentTarget;
     console.log(card);
-    card.classList.toggle("red");
+    card.classList.toggle("sky-blue");
   }
 
   render() {
