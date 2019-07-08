@@ -6,10 +6,12 @@ class About extends Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
+
   handleClick(event) {
     console.log('Click happened');
     const card = event.currentTarget;
-    console.log(card);
+    const image = card.childNodes[0].src;
+    console.log(image);
     card.classList.toggle("sky-blue");
   }
 
@@ -171,7 +173,7 @@ class About extends Component {
                 <div id="open-modal" className="modal-window">
                 <div>
                   <a href="#modal-close" title="Close" className="modal-close">close &times;</a>
-                  <img className="modal-image" src="/assets/photos/photography/hktemp.jpg" alt=""/>
+                  <img className="modal-image" src="" alt=""/>
                 </div>
               </div>
             </div>

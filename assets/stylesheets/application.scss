@@ -485,7 +485,6 @@ audio::-webkit-media-controls-panel {
 .modal-window>div {
   height: auto;
   width: auto;
-  min-width: 400px;
   position: relative;
   margin: 10% auto;
   padding: 2rem;
@@ -515,10 +514,11 @@ audio::-webkit-media-controls-panel {
 }
 
 .modal-image {
-  max-height: 50vh;
-  max-width: 70vh;
+  max-height: 70vh;
+  max-width: 80vh;
   height: auto;
   width: auto;
+  position: relative;
   margin: 2rem;
   border-style: solid;
   border-width: 0.7rem;
