@@ -6,13 +6,13 @@ class About extends Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-
   handleClick(event) {
-    console.log('Click happened');
     const card = event.currentTarget;
     const image = card.childNodes[0].src;
+    const modImage = document.getElementsByClassName("modal-image");
+    modImage[0].src = image;
     console.log(image);
-    card.classList.toggle("sky-blue");
+    console.log(modImage);
   }
 
   render() {
@@ -39,7 +39,7 @@ class About extends Component {
                   <img src="/assets/photos/wagon-red.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
-                  <p className="edu-title"><strong>Le Wagon</strong></p>
+                  <p className="image src dependent on clickedu-title"><strong>Le Wagon</strong></p>
                   <p className="edu-location">Rio de Janeiro, Brazil</p>
                 </div>
               </div>
@@ -173,7 +173,7 @@ class About extends Component {
                 <div id="open-modal" className="modal-window">
                 <div>
                   <a href="#modal-close" title="Close" className="modal-close">close &times;</a>
-                  <img className="modal-image" src="" alt=""/>
+                  <img className="modal-image" alt=""/>
                 </div>
               </div>
             </div>
