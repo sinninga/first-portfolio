@@ -39,7 +39,7 @@ class About extends Component {
                   <img src="/assets/photos/wagon-red.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
-                  <p className="image src dependent on clickedu-title"><strong>Le Wagon</strong></p>
+                  <p className="edu-title"><strong>Le Wagon</strong></p>
                   <p className="edu-location">Rio de Janeiro, Brazil</p>
                 </div>
               </div>
