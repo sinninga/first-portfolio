@@ -59,6 +59,15 @@ class About extends Component {
                   <p className="edu-location">Sucre, Bolivia</p>
                 </div>
               </div>
+              <div className="edu-item">
+                <div className="edu-icon-card">
+                  <img src="/assets/photos/ih.jpeg" alt="" className="about-icon"/>
+                </div>
+                <div className="edu-item-content">
+                  <p className="edu-title"><strong>International House</strong></p>
+                  <p className="edu-location">Buenos Aires, Argentina</p>
+                </div>
+              </div>
             </div>
           </div>
           <div className="about-center">
