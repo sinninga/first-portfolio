@@ -397,6 +397,11 @@ body {
   cursor: pointer;
 }
 
+.photo:hover {
+  opacity: 0.6;
+  transition: all 0.4s;
+}
+
 .photo-card {
   background-color: #2081C3;
   height: 80px;
