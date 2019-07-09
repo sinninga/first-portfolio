@@ -11,8 +11,6 @@ class About extends Component {
     const image = card.childNodes[0].src;
     const modImage = document.getElementsByClassName("modal-image");
     modImage[0].src = image;
-    console.log(image);
-    console.log(modImage);
   }
 
   render() {
