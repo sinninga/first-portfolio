@@ -88,6 +88,7 @@ body {
 .skills {
   display: flex;
   flex-wrap: wrap;
+  padding-top: 10vh;
   // align-items: center;
   height: auto;
   justify-content: center;
@@ -376,7 +377,14 @@ body {
 }
 
 .audio-container {
-  overflow: hidden;
+  overflow: auto;
+  justify-content: center;
+  max-height: 65vh;
+  height: auto;
+}
+
+audio {
+  margin: 5px;
 }
 
 .photos-container {
@@ -488,9 +496,9 @@ audio::-webkit-media-controls-panel {
   width: auto;
   position: relative;
   margin: 10% auto;
-  padding: 2rem;
+  padding: 4rem;
   background: #2081C3;
-  opacity: 0.9;
+  opacity: 0.92;
   color: #444;
 }
 
@@ -522,8 +530,8 @@ audio::-webkit-media-controls-panel {
   position: relative;
   margin: 2rem;
   border-style: solid;
-  border-width: 0.6rem;
+  border-width: 0.5rem;
   border-radius: 3px;
   border-color: whitesmoke;
-  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.4);
 }

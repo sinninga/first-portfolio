@@ -22,6 +22,7 @@ class About extends Component {
         <div className="about-content">
           <div className="about-left">
             <div className="about-content-title">Education</div>
+            <br/>
             <div className="about-left-content">
               <div className="edu-item">
                 <div className="edu-icon-card">
@@ -72,7 +73,7 @@ class About extends Component {
           </div>
           <div className="about-center">
             <div className="about-content-title-music">Music</div>
-            <div className="about-content-title-music-desc"><strong>Guitar and Piano by Adam Sinning</strong></div>
+            <div className="about-content-title-music-desc"><strong>Composed, Performed and Recorded by Adam Sinning</strong></div>
             <div className="audio-container">
               <audio controls="controls" style={{width: 200}}>
                 <source src="/assets/songs/agp1.mp3" type="audio/mpeg" />
@@ -92,6 +93,36 @@ class About extends Component {
               <audio controls="controls" style={{width: 200}}>
                 <source src="/assets/songs/agp7.mp3" type="audio/mpeg" />
               </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/agp3.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/agp8.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/14themoney.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/6.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/2done.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/1(4).mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/24theshow.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/32getready.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/33.mp3" type="audio/mpeg" />
+              </audio>
+              <audio controls="controls" style={{width: 200}}>
+                <source src="/assets/songs/andanotha1.mp3" type="audio/mpeg" />
+              </audio>
             </div>
           </div>
           <div className="about-right">
@@ -99,7 +130,7 @@ class About extends Component {
             <div className="photos-container">
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/antigua.jpg" alt=""/>
+                  <img className="photo" src="/assets/photos/photography/valpohouses.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
@@ -110,6 +141,11 @@ class About extends Component {
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/domes.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/choquequirao.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
@@ -125,6 +161,100 @@ class About extends Component {
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/lizard.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/barichara.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/batu.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/chachani.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/colorbridge.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/dali.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/antigua.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/gallinas.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/huaraz.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/jerash.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/lavaflow.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/market.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/marsh.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/statue.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/sunsetfishing.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/uyuni.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/wadi.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/waterfall.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/wawel.jpg" alt=""/>
+                </div>
+              </a><a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/valpo.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
@@ -164,12 +294,42 @@ class About extends Component {
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/redocean.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/gold.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/hktemp.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/hkbuddha.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/vietgate.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/train.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/macau.jpg" alt=""/>
+                </div>
+              </a>
+              <a href="#open-modal">
+                <div className="photo-card" onClick={this.handleClick}>
+                  <img className="photo" src="/assets/photos/photography/uji.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
