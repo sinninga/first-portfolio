@@ -340,7 +340,11 @@ class About extends Component {
                 <div id="open-modal" className="modal-window">
                 <div>
                   <a href="#modal-close" title="Close" className="modal-close">close &times;</a>
+                  <div className="modal-content">
+                  <div className="icon1"></div>
                   <img className="modal-image" alt=""/>
+                  <div className="icon2"></div>
+                  </div>
                 </div>
               </div>
             </div>
