@@ -18,7 +18,7 @@ class Projects extends Component {
               <br/>
               <img className="image" src="/assets/photos/equip.png" alt=""/>
             </a>
-            <a href="#" className="project-card">
+            <a href="https://sinninga.github.io/react-gifs/" className="project-card">
               <strong className='project-title'>API Calls</strong>
               <br/>
               <img className="image" src="/assets/photos/giphy.png" alt=""/>
