@@ -30,10 +30,10 @@ class Projects extends Component {
               <br/>
               <img className="image" src="/assets/photos/cocktail.png" alt=""/>
             </a>
-            <a href="https://sinninga.github.io/wagon-cities/" className="project-card">
-              <strong className='project-title'>Redux Demo</strong>
+            <a href="https://sinninga.github.io/staticairbnbredux/" className="project-card">
+              <strong className='project-title'>Redux Maps</strong>
               <br/>
-              <img className="image" src="/assets/photos/wagon-screen.png" alt=""/>
+              <img className="image" src="/assets/photos/reduxmaps.png" alt=""/>
             </a>
             <a href="https://www.w3schools.com/cssref/sel_hover.asp" className="project-card">
               <strong className='project-title'>Design</strong>
