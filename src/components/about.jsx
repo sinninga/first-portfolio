@@ -94,9 +94,6 @@ class About extends Component {
                 <source src="/assets/songs/agp7.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp3.mp3" type="audio/mpeg" />
-              </audio>
-              <audio controls="controls" style={{width: 200}}>
                 <source src="/assets/songs/agp8.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
@@ -112,16 +109,7 @@ class About extends Component {
                 <source src="/assets/songs/1(4).mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/24theshow.mp3" type="audio/mpeg" />
-              </audio>
-              <audio controls="controls" style={{width: 200}}>
                 <source src="/assets/songs/32getready.mp3" type="audio/mpeg" />
-              </audio>
-              <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/33.mp3" type="audio/mpeg" />
-              </audio>
-              <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/andanotha1.mp3" type="audio/mpeg" />
               </audio>
             </div>
           </div>
@@ -166,11 +154,6 @@ class About extends Component {
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/barichara.jpg" alt=""/>
-                </div>
-              </a>
-              <a href="#open-modal">
-                <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/batu.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
@@ -250,10 +233,6 @@ class About extends Component {
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/wawel.jpg" alt=""/>
-                </div>
-              </a><a href="#open-modal">
-                <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/valpo.jpg" alt=""/>
                 </div>
               </a>
@@ -289,22 +268,7 @@ class About extends Component {
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/fruit.jpg" alt=""/>
-                </div>
-              </a>
-              <a href="#open-modal">
-                <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/redocean.jpg" alt=""/>
-                </div>
-              </a>
-              <a href="#open-modal">
-                <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/gold.jpg" alt=""/>
-                </div>
-              </a>
-              <a href="#open-modal">
-                <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/hktemp.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
@@ -315,11 +279,6 @@ class About extends Component {
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
                   <img className="photo" src="/assets/photos/photography/vietgate.jpg" alt=""/>
-                </div>
-              </a>
-              <a href="#open-modal">
-                <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/train.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">

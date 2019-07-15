@@ -8,11 +8,6 @@ class Projects extends Component {
       <div className="projects-title">Projects</div>
         <div className="projects">
           <div className="row-one-cards">
-            <a href="#" className="project-card">
-              <strong className='project-title'>CRUD Demo</strong>
-              <br/>
-              <img className="image" src="/assets/photos/reduxbb.png" alt=""/>
-            </a>
             <a href="https://sinninga.github.io/chat-redux/" className="project-card">
               <strong className='project-title'>React Chat</strong>
               <br/>
@@ -26,7 +21,7 @@ class Projects extends Component {
           </div>
           <div className="row-two-cards">
             <a href="https://mister-cocktail-adam.herokuapp.com/" className="project-card">
-              <strong className='project-title'>Deployment</strong>
+              <strong className='project-title'>Heroku Deployment</strong>
               <br/>
               <img className="image" src="/assets/photos/cocktail.png" alt=""/>
             </a>
@@ -34,11 +29,6 @@ class Projects extends Component {
               <strong className='project-title'>Redux Maps</strong>
               <br/>
               <img className="image" src="/assets/photos/reduxmaps.png" alt=""/>
-            </a>
-            <a href="https://www.w3schools.com/cssref/sel_hover.asp" className="project-card">
-              <strong className='project-title'>Design</strong>
-              <br/>
-              <img className="image" src="/assets/photos/graph.png" alt=""/>
             </a>
           </div>
         </div>

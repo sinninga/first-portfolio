@@ -36,9 +36,9 @@ class Skills extends Component {
             <strong className='skill-title'>Toolkit</strong>
             <br/>
             <ul className='full-list'>
+              <li className='list'>Github</li>
               <li className='list'>Sublime Text</li>
               <li className='list'>Chrome Dev Tools</li>
-              <li className='list'>Github</li>
               <li className='list'>React Dev Tools</li>
               <li className='list'>Redux Dev Tools</li>
             </ul>
