@@ -13,10 +13,10 @@ class Projects extends Component {
               <br/>
               <img className="image" src="/assets/photos/reduxbb.png" alt=""/>
             </a>
-            <a href="#" className="project-card">
-              <strong className='project-title'>Sorting Demo</strong>
+            <a href="https://sinninga.github.io/chat-redux/" className="project-card">
+              <strong className='project-title'>React Chat</strong>
               <br/>
-              <img className="image" src="/assets/photos/equip.png" alt=""/>
+              <img className="image" src="/assets/photos/photography/chat.png" alt=""/>
             </a>
             <a href="https://sinninga.github.io/react-gifs/" className="project-card">
               <strong className='project-title'>API Calls</strong>
