@@ -501,19 +501,20 @@ audio::-webkit-media-controls-panel {
   height: auto;
   width: auto;
   position: relative;
-  margin: 10% auto;
-  padding: 4rem;
-  background: black;
+  margin: 5% auto;
+  padding: 5rem;
+  background: #2081C3;
   opacity: 0.92;
   color: #444;
 }
 
 .modal-content {
+  padding: 2%;
   display: flex;
   flex-direction: inline;
   justify-content: center;
   align-items: center;
-  background-color: #2081C3;
+  background-color: whitesmoke;
   border-style: solid;
   border-width: 0.5rem;
   border-radius: 2px;
@@ -547,9 +548,9 @@ audio::-webkit-media-controls-panel {
   max-width: 70vw;
   position: relative;
   margin: 2rem;
-  border-style: solid;
-  border-width: 0.4rem;
-  border-radius: 3px;
-  border-color: whitesmoke;
+  // border-style: solid;
+  // border-width: 0.4rem;
+  // border-radius: 3px;
+  // border-color: whitesmoke;
   box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.4);
 }
