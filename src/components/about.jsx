@@ -118,182 +118,182 @@ class About extends Component {
             <div className="photos-container">
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/valpohouses.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/valpohouses.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/canyon.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/canyon.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/domes.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/domes.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/choquequirao.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/choquequirao.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/karnak.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/karnak.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/lake.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/lake.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/lizard.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/lizard.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/barichara.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/barichara.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/chachani.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/chachani.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/colorbridge.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/colorbridge.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/dali.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/dali.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/antigua.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/antigua.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/gallinas.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/gallinas.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/huaraz.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/huaraz.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/jerash.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/jerash.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/lavaflow.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/lavaflow.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/market.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/market.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/marsh.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/marsh.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/statue.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/statue.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/sunsetfishing.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/sunsetfishing.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/uyuni.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/uyuni.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/wadi.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/wadi.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/waterfall.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/waterfall.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/valpo.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/valpo.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/mosque.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/mosque.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/shrine.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/shrine.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/sign.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/sign.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/sunset.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/sunset.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/temple.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/temple.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/wall.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/wall.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/redocean.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/redocean.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/hkbuddha.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/hkbuddha.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/vietgate.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/vietgate.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/macau.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/macau.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
                 <div className="photo-card" onClick={this.handleClick}>
-                  <img className="photo" src="/assets/photos/photography/uji.jpg" alt=""/>
+                  <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/uji.jpg" alt=""/>
                 </div>
               </a>
               <a href="#open-modal">
               <div className="photo-card" onClick={this.handleClick}>
-                <img className="photo" src="/assets/photos/photography/lamps.jpg" alt=""/>
+                <img className="photo" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/lamps.jpg" alt=""/>
               </div>
               </a>
                 <div id="open-modal" className="modal-window">
