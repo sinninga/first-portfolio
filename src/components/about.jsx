@@ -26,7 +26,7 @@ class About extends Component {
             <div className="about-left-content">
               <div className="edu-item">
                 <div className="edu-icon-card">
-                  <img src="/assets/photos/cuboulder.png" alt="" className="about-icon"/>
+                  <img src="https://sinninga.github.io/first-portfolio/assets/photos/cuboulder.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>University of Colorado</strong></p>
@@ -35,7 +35,7 @@ class About extends Component {
               </div>
               <div className="edu-item">
                 <div className="edu-icon-card">
-                  <img src="/assets/photos/wagon-red.png" alt="" className="about-icon"/>
+                  <img src="https://sinninga.github.io/first-portfolio/assets/photos/wagon-red.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Le Wagon</strong></p>
@@ -44,7 +44,7 @@ class About extends Component {
               </div>
               <div className="edu-item">
                 <div className="edu-icon-card">
-                  <img src="/assets/photos/cano.png" alt="" className="about-icon"/>
+                  <img src="https://sinninga.github.io/first-portfolio/assets/photos/cano.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Cano Spanish School</strong></p>
@@ -53,7 +53,7 @@ class About extends Component {
               </div>
               <div className="edu-item">
                 <div className="edu-icon-card">
-                  <img src="/assets/photos/sucre.png" alt="" className="about-icon"/>
+                  <img src="https://sinninga.github.io/first-portfolio/assets/photos/sucre.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>Sucre Spanish School</strong></p>
@@ -62,7 +62,7 @@ class About extends Component {
               </div>
               <div className="edu-item">
                 <div className="edu-icon-card">
-                  <img src="/assets/photos/ih.jpeg" alt="" className="about-icon"/>
+                  <img src="https://sinninga.github.io/first-portfolio/assets/photos/ih.jpeg" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
                   <p className="edu-title"><strong>International House</strong></p>
@@ -76,40 +76,40 @@ class About extends Component {
             <div className="about-content-title-music-desc"><strong>Composed, Performed and Recorded by Adam Sinning</strong></div>
             <div className="audio-container">
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp1.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp1.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp2.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp2.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp4.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp4.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp5.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp5.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp6.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp6.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp7.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp7.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/agp8.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp8.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/14themoney.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/14themoney.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/6.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/6.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/2done.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/2done.mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/1(4).mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/1(4).mp3" type="audio/mpeg" />
               </audio>
               <audio controls="controls" style={{width: 200}}>
-                <source src="/assets/songs/32getready.mp3" type="audio/mpeg" />
+                <source src="https://sinninga.github.io/first-portfolio/assets/songs/32getready.mp3" type="audio/mpeg" />
               </audio>
             </div>
           </div>

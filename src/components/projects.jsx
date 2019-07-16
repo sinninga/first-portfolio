@@ -11,24 +11,24 @@ class Projects extends Component {
             <a href="https://sinninga.github.io/chat-redux/" className="project-card">
               <strong className='project-title'>React Chat</strong>
               <br/>
-              <img className="image" src="/assets/photos/photography/chat.png" alt=""/>
+              <img className="image" src="https://sinninga.github.io/first-portfolio/assets/photos/photography/chat.png" alt=""/>
             </a>
             <a href="https://sinninga.github.io/react-gifs/" className="project-card">
               <strong className='project-title'>API Calls</strong>
               <br/>
-              <img className="image" src="/assets/photos/gifs.png" alt=""/>
+              <img className="image" src="https://sinninga.github.io/first-portfolio/assets/photos/gifs.png" alt=""/>
             </a>
           </div>
           <div className="row-two-cards">
             <a href="https://mister-cocktail-adam.herokuapp.com/" className="project-card">
               <strong className='project-title'>Heroku Deployment</strong>
               <br/>
-              <img className="image" src="/assets/photos/cocktail.png" alt=""/>
+              <img className="image" src="https://sinninga.github.io/first-portfolio/assets/photos/cocktail.png" alt=""/>
             </a>
             <a href="https://sinninga.github.io/staticairbnbredux/" className="project-card">
               <strong className='project-title'>Redux Maps</strong>
               <br/>
-              <img className="image" src="/assets/photos/reduxmaps.png" alt=""/>
+              <img className="image" src="https://sinninga.github.io/first-portfolio/assets/photos/reduxmaps.png" alt=""/>
             </a>
           </div>
         </div>
