@@ -73,7 +73,7 @@ class About extends Component {
           </div>
           <div className="about-center">
             <div className="about-content-title-music">Music</div>
-            <div className="about-content-title-music-desc"><strong>Composed, Performed and Recorded by Adam Sinning</strong></div>
+            <div className="about-content-title-music-desc"><strong>Guitar and Piano by Adam Sinning</strong></div>
             <div className="audio-container">
               <audio controls="controls" style={{width: 200}}>
                 <source src="https://sinninga.github.io/first-portfolio/assets/songs/agp1.mp3" type="audio/mpeg" />
