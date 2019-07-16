@@ -38,7 +38,7 @@ class About extends Component {
                   <img src="https://sinninga.github.io/first-portfolio/assets/photos/wagon-red.png" alt="" className="about-icon"/>
                 </div>
                 <div className="edu-item-content">
-                  <p className="edu-title"><strong>Le Wagon</strong></p>
+                  <p className="edu-title"><strong>Le Wagon Bootcamp</strong></p>
                   <p className="edu-location">Rio de Janeiro, Brazil</p>
                 </div>
               </div>
