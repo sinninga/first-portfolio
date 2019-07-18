@@ -12,8 +12,8 @@ class Skills extends Component {
             <br/>
             <ul className='full-list-one'>
               <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/html.png"/>  HTML5</li>
-              <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/css.png"/>  CSS</li>
-              <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/js.png"/>  Javascript</li>
+              <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/css.png"/>  CSS3</li>
+              <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/js.png"/>  ES6</li>
               <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/react.png"/>  React</li>
               <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/redux.png"/>  Redux</li>
               <li className='list'><img className='icon' src="https://sinninga.github.io/first-portfolio/assets/photos/rails.png"/>  Ruby on Rails</li>
